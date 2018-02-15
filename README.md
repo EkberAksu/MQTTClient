@@ -7,7 +7,6 @@ In this project, we have a NodeMCU firmware which is connected to a DHT11 sensor
 * First,  to use the cloud platform you need to create an acoount. Go to this link https://enterprise.iot-ignite.com/v3/access/login to create your own account, and login.
 
 * Then you need to register your gateway to the cloud system, to do that, we start by installing Iot-Ignite agent application. You can download and install latest IoT-Ignite Agent app from Google Play Store https://play.google.com/store/apps/details?id=com.ardic.android.iotigniteagent .
-
 Then register your device from Administration->RegisterGateway.
 
 *	Uploading and signing IoTGate-MQTT app. You can upload and make your app trusted from Application->App Store->Categories->Add Application, don’t forget to select “Trusted App” checkbox.
