@@ -18,7 +18,7 @@ To send the mode to your gateway, go to Gateways->All gateways, and select your 
 
 Your gateway is connected and registered to the Iot-Ignite, and ready to use.
 
-##Setup Nodes and Sensors
+## Setup Nodes and Sensors
 
 It’s time to setup Nodes and Sensors. In this case we use NodeMCU and DHT11 temperature&humidity sensor. Connect them on a breadboard, GND to GND, VCC to 5V, and Data pin to D0 pin of the NodeMCU.
 
