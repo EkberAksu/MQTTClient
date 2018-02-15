@@ -14,7 +14,7 @@ Then register your device from Administration->RegisterGateway.
 
 * You have uploaded your app. Now it’s time to create a mode and push it with the app’s certificate. You can create a new mode from Gateway Modes->Mode Store->Add Mode, or you can use default mode from Gateway Modes->Default Mode and add your appication’s certificate from Applications->Add Aplication section.
 
-To send the mode to your gateway, go to Gateways->All gateways, and select your device, then add to working set by clicking “Add To Working Set”, click on “Modes”, choose your mode, and send it by Change Mode->yes->Send Immidiately.
+* To send the mode to your gateway, go to Gateways->All gateways, and select your device, then add to working set by clicking “Add To Working Set”, click on “Modes”, choose your mode, and send it by Change Mode->Send Immidiately->Yes.
 
 Your gateway is connected and registered to the Iot-Ignite, and ready to use.
 
